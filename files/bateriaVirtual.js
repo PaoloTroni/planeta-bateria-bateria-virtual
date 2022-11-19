@@ -7,8 +7,8 @@ const sound = {
   e: "ride.wav",
   w: "snare.wav",
   r: "tom-high.wav",
-  u: "tom-low.wav",
-  i: "tom-mid.wav",
+  i: "tom-low.wav",
+  u: "tom-mid.wav",
 };
 const sessionRecord = [];
 let isRecording = false;
